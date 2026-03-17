@@ -4,7 +4,7 @@
     "sources": [
         {
             "type": "git",
-            "url": "https://gitlab.gnome.org/GNOME/gupnp-av.git",
+            "url": "https://github.com/GNOME/gupnp-av.git",
             "commit": "1e10a41fcef6ae0d3e89958db89bc22398f3b4f1"
         }
     ]

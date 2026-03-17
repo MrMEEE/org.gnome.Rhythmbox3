@@ -5,7 +5,7 @@
     "sources": [
         {
             "type": "git",
-            "url": "https://gitlab.gnome.org/GNOME/gupnp-dlna.git",
+            "url": "https://github.com/GNOME/gupnp-dlna.git",
             "commit": "cc09daae47ef0e030895edbeba58636c76f53b3d",
             "tag": "gupnp-dlna-0.12.0"
         }

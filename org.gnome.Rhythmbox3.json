@@ -52,7 +52,7 @@
             "sources": [
                 {
                     "type": "git",
-                    "url": "https://gitlab.gnome.org/GNOME/grilo.git",
+                    "url": "https://github.com/GNOME/grilo.git",
                     "commit": "923397361b36e95ddd57cff70ba7b0a8cb8d5e8c",
                     "tag": "grilo-0.3.16"
                 }
@@ -87,7 +87,7 @@
             "sources": [
                 {
                     "type": "git",
-                    "url": "https://gitlab.gnome.org/GNOME/grilo-plugins.git",
+                    "url": "https://github.com/GNOME/grilo-plugins.git",
                     "commit": "dff5616464b8e46f58b84a67cc945f3a6c72dd73",
                     "tag": "grilo-plugins-0.3.16"
                 }
@@ -123,7 +123,7 @@
             "sources": [
                 {
                     "type": "git",
-                    "url": "https://gitlab.gnome.org/GNOME/libpeas.git",
+                    "url": "https://github.com/GNOME/libpeas.git",
                     "commit": "7f245fa5158204621c3469756a951b68a651c4fe",
                     "tag": "libpeas-1.36.0"
                 }
@@ -165,7 +165,7 @@
             "sources": [
                 {
                     "type": "git",
-                    "url": "https://gitlab.gnome.org/GNOME/totem-pl-parser.git",
+                    "url": "https://github.com/GNOME/totem-pl-parser.git",
                     "commit": "489d88e9aac584ee245964d69955ab7aba163fc6"
                 }
             ],
@@ -205,7 +205,7 @@
             "sources": [
                 {
                     "type": "git",
-                    "url": "https://gitlab.gnome.org/GNOME/libdmapsharing.git",
+                    "url": "https://github.com/GNOME/libdmapsharing.git",
                     "commit": "2bcf6286fc81ff9c964e5b1bfe918c01a18e98c4",
                     "tag": "LIBDMAPSHARING_3_9_12"
                 }
@@ -222,7 +222,7 @@
             "sources": [
                 {
                     "type": "git",
-                    "url": "https://gitlab.gnome.org/GNOME/rhythmbox.git",
+                    "url": "https://github.com/GNOME/rhythmbox.git",
                     "tag": "3.4.9"
                 }
             ]

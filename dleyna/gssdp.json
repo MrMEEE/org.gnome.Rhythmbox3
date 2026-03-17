@@ -11,7 +11,7 @@
     "sources": [
         {
             "type": "git",
-            "url": "https://gitlab.gnome.org/GNOME/gssdp.git",
+            "url": "https://github.com/GNOME/gssdp.git",
             "tag": "gssdp-1.6.3"
         }
     ]
